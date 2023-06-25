@@ -1,0 +1,153 @@
+body{
+   
+    box-sizing: border-box;
+    font-family:  Montserrat, sans-serif;
+   
+    
+   
+}
+.container{
+    padding-bottom: 30px;
+     
+}
+
+
+.container-fluid{
+    background-color:#A0C49D ; 
+    display: grid;
+    place-items: center; 
+    
+  
+}
+
+
+h1,h2{
+    font-family: 'Courgette', cursive;
+    font-size: 3rem;
+    font-weight:1;
+}  
+
+.art{
+    text-decoration:underline;
+    text-align: center;
+}
+.img1{
+
+  width: 200px;
+  height: 200px;;
+  padding-top:30px;
+  mix-blend-mode: multiply;
+  
+}
+.img2{
+    height: 250px;
+    width: 200px;
+    border-radius: 25px;
+    
+}
+
+.tittle{
+    padding: 10px;
+}
+.middle-container{
+   
+    color: rgb(49, 0, 112);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    display: grid;
+    place-items: center;
+    background-color: #C4D7B2;
+
+    
+}
+
+.emoji{
+    padding-top: 30px;
+    width:200px;
+    border-radius: 50%;
+    align-items: center;
+}
+.intro{
+    width: 40%;
+    margin:auto;
+    color:black;
+    text-align: center;
+    padding-bottom:30px ;
+}
+.skill{
+    
+    color: rgb(49, 0, 112);
+    
+    display: grid;
+    place-items: center;
+    padding-top:30px ;
+    padding-bottom: 30px;
+    background-color:#E1ECC8;   
+}
+.parent{
+    padding-top: 30px;
+    background-color:#E1ECC8; 
+}
+.para-skill{
+    color: black;
+    padding:30px;
+    
+    
+}
+.laptop{
+    
+    width: 200px;
+    height: 300px;
+}
+.artvideo{
+    width:200px;
+    height:350px;
+}
+.contact-me{
+    color: rgb(5, 88, 67);
+    display: grid;
+    place-items: center;
+    padding-top: 30px;
+  
+    padding-bottom: 15px;
+}
+.contactpara{
+    color:black;
+    width:70%;
+    padding: 5px;
+    text-align: center;
+    margin-top: 5px;
+    margin: 20px auto 20px;
+    line-height: 2;
+    display: grid;
+    place-items: center;
+}
+h3{
+   text-align: center; 
+} 
+
+h3{
+    padding: 10px; 
+}
+
+.bottom-container{
+
+    padding: 50px 0 20px;
+    background-color: #F7FFE5;
+    text-align: center;
+
+
+}
+.fa-brands{
+    color: black;
+    height: 30px;
+    width: 30px;
+    size-adjust: 30px;
+}
+
+a{
+    padding: 10px;
+    
+}
+
+
+
